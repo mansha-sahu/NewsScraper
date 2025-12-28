@@ -13,6 +13,3 @@ This project is a Java-based News Scraper that fetches real-time news headlines 
 - No backend server required
 - Fast and lightweight Java application
 - Extracts news titles, links, and published dates
-- Simple and beginner-friendly implementation
-- Can be executed as a standalone Java program
-- Easy to extend with categories and UI enhancements
